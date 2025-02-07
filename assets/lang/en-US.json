@@ -1,0 +1,9 @@
+{
+    "user_list": "User List",
+    "loading": "Loading...",
+    "error_message": "Sorry, an error occurred",
+    "user_detail": "User Detail",
+    "name": "Name",
+    "email": "e-mail",
+    "no_user_found": "No user found"
+}

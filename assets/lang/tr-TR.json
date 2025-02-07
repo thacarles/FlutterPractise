@@ -1,0 +1,9 @@
+{
+    "user_list": "Kullanıcı Listesi",
+    "loading": "Yükleniyor...",
+    "error_message": "Üzgünüm, bir hata oluştu",
+    "user_detail": "Kullanıcı Detayı",
+    "name": "Ad",
+    "email": "e-posta",
+    "no_user_found": "Kullanıcı bulunamadı"
+}
